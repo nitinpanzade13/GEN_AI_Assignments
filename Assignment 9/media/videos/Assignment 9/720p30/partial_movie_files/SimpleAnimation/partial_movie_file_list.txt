@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/SimpleAnimation/1987512680_2450951633_223132457.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/SimpleAnimation/2538612922_2872842549_966687007.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/SimpleAnimation/2538612922_3553797588_3229057766.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/SimpleAnimation/2538612922_2844360058_595454090.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/SimpleAnimation/2538612922_170044483_3005844210.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/SimpleAnimation/2538612922_2844360058_2034195252.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/AIGeneratedScene/1987512680_3661746487_223132457.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/AIGeneratedScene/2538612922_2844360058_1235198934.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/AIGeneratedScene/2538612922_252044673_1464292803.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/AIGeneratedScene/2538612922_1432596116_2072571722.mp4'
+file 'file:C:/Users/nitin/OneDrive/Documents/VIIT/3rd Year/Sem 2/GenAI_Assignments/Assignment 9/media/videos/Assignment 9/720p30/partial_movie_files/AIGeneratedScene/2538612922_1929181703_2760220751.mp4'
